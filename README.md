@@ -73,9 +73,13 @@ Potential sources include:
 
 ## Project Status
 
-Currently learning R programming and developing the initial data-analysis framework.
+I have completed the IBM Introduction to R Programming for Data Science course through Coursera and am applying the concepts I learned to this project.
 
-The next stages will include collecting historical data, cleaning the datasets, creating visualizations and performing statistical analysis.
+The project is currently in development. I plan to analyse India's imports and exports, trade deficit, crude oil and gold imports, and Brent crude oil prices to explore their possible relationship with movements in the USD/INR exchange rate.
+
+The next steps are to collect and organise the relevant data, perform analysis using R, and create visualisations to identify trends and possible relationships.
+
+The findings and analysis will be added as the project progresses.
 
 ## Limitations
 
